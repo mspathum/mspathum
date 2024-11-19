@@ -28,7 +28,7 @@ I'm a software engineer 👨‍💻 who is passionate about Mobile application d
 
 - **Languages/Frameworks**
     
-     <img src="http://www.w3.org/2000/svg" width="40" height="40" />
+     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg?short_path=e99ef1e" width="40" height="40" />
   
 - **UI-Design**
 
