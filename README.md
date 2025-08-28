@@ -9,12 +9,6 @@ Software engineer 👨‍💻 who is passionate about Mobile application develop
 
 - 🔭 Currently working on [Mobile App development with Flutter & Android (Java) | Backend APIs with Spring Boot]
 - 🌱 I’m currently learning [ReactJS+TypeScript]
-- 💬 Ask me about Flutter[Dart]
-
-<h3 align="left">Connect With Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pathum senadeerage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum senadeerage" height="30" width="30" /></a>
-</p>
 
 <h3 align="left">Read My Articles</h3>
 <p align="left">
