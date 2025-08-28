@@ -10,7 +10,6 @@ Software engineer 👨‍💻 who is passionate about Mobile application develop
 - 🔭 Currently working on [Mobile App development with Flutter & Android (Java) | Backend APIs with Spring Boot]
 - 🌱 I’m currently learning [ReactJS+TypeScript]
 - 💬 Ask me about Flutter[Dart]
-- ⚡ Languages: Flutter | Android(Java) | iOS (Swift) | C# | Spring Boot | ReactJS
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
@@ -30,9 +29,9 @@ Software engineer 👨‍💻 who is passionate about Mobile application develop
     
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg?short_path=e99ef1e" width="40" height="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40" />
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" width="40" height="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Swift.svg" width="40" height="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" width="40" height="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40" />
   
 - **UI-Design**
