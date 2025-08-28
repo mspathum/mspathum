@@ -5,10 +5,10 @@
 
 <img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif">
 
-I'm a software engineer 👨‍💻 who is passionate about Mobile application development. I'm also a self procliamed graphic designer and internet surfer 🏄‍♂️. 
+Software engineer 👨‍💻 who is passionate about Mobile application development & Backend API development 🏄‍♂️. 
 
-- 🔭 I’m currently working on [Mobile Application Developments Flutter | Android Java]
-- 🌱 I’m currently learning [Spring Boot & ReactJS]
+- 🔭 Currently working on [Mobile App development with Flutter & Android (Java) | Backend APIs with Spring Boot]
+- 🌱 I’m currently learning [ReactJS+TypeScript]
 - 💬 Ask me about Flutter[Dart]
 - ⚡ Languages: Flutter | Android(Java) | iOS (Swift) | C# | Spring Boot | ReactJS
 
