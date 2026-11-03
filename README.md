@@ -1,13 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Welcome </h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Me+<Pathum/>;Software+Engineer...;Mobile+Application+Dev+Expert...;SpringBoot+ReactJS+Enthusiast...;"/>
 
-👋 Hi, I'm a Software Engineer
-Mobile Application Developer | Flutter & Android | Backend API Developer
+👋 Hi, 
 
 I’m a passionate Software Engineer with 5+ years of experience designing, developing, and delivering reliable, scalable, and high-performance software solutions.
-
 My expertise spans Mobile Application Development, Backend API Development, and Web Development, with hands-on experience working with international clients across Sri Lanka, Australia, and Japan.
-
 I enjoy transforming ideas into practical digital solutions, building user-friendly applications, improving development workflows, and collaborating with teams to achieve business goals.
 
 🚀 About Me
@@ -26,17 +23,13 @@ I enjoy transforming ideas into practical digital solutions, building user-frien
 !Dart !Flutter !Java !Kotlin !Spring Boot !C# !React !HTML5 !CSS3
 
 🎨 UI/UX Design
-
 !Figma !Adobe XD
 
 🗄️ Databases
-
 !MySQL !SQLite !Microsoft SQL Server !MongoDB !Firebase
 
 ☁️ Cloud & DevOps
-
 !AWS !Docker !GitHub Actions !Git !Bitbucket
-
 AWS Services: EBS, S3, RDS, Route 53, CloudFront, SES
 
 🔧 Development & Collaboration Tools
@@ -49,9 +42,7 @@ Operating Systems: Windows, macOS
 💼 Professional Experience
 
 5+ Years of Software Development Experience
-
 Throughout my career, I have contributed to software development projects for clients in:
-
 🇱🇰 Sri Lanka
 🇦🇺 Australia
 🇯🇵 Japan
