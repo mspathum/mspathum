@@ -1,69 +1,129 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Welcome </h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Me+<Pathum/>;Software+Engineer...;Mobile+Application+Dev+Expert...;SpringBoot+ReactJS+Enthusiast...;"/>
+👨‍💻 Software Engineer | Mobile & Backend Developer
 
-👋 Hi, 
+<p align="center">
+<img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-38BDF8?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/FOCUS-MOBILE%20%26%20BACKEND-8B5CF6?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/LOCATION-JAPAN-EC4899?style=for-the-badge&labelColor=111827" />
+</p>
 
-I’m a passionate Software Engineer with 5+ years of experience designing, developing, and delivering reliable, scalable, and high-performance software solutions.
-My expertise spans Mobile Application Development, Backend API Development, and Web Development, with hands-on experience working with international clients across Sri Lanka, Australia, and Japan.
-I enjoy transforming ideas into practical digital solutions, building user-friendly applications, improving development workflows, and collaborating with teams to achieve business goals.
+<p align="center">
+<b>Building meaningful digital experiences through technology.</b>
+<br/>
+Flutter • Android • Kotlin • Spring Boot • AWS
+</p>
 
-🚀 About Me
-📱 Specialized in Mobile Application Development using Flutter, Android Java, and Kotlin.
-⚙️ Experienced in Backend API Development using Spring Boot and RESTful architecture.
-🎨 Skilled in UI/UX design and prototyping using Figma and Adobe XD.
-☁️ Familiar with AWS cloud services and Docker-based environments.
-🔄 Experienced in Git workflows, CI/CD pipelines, and application deployment.
-📦 Hands-on experience publishing applications to Google Play Store and Apple App Store.
-👨‍💻 Experienced in team collaboration, technical leadership, and project management.
-🌏 Worked with international clients across Sri Lanka, Australia, and Japan.
-🇬🇧 English: TOEIC 820 | 🇯🇵 Japanese: JLPT N3 – Business Level.
-🛠️ Tech Stack & Tools
-💻 Languages & Frameworks
+01 — About Me
 
-!Dart !Flutter !Java !Kotlin !Spring Boot !C# !React !HTML5 !CSS3
+I'm a Software Engineer with 5+ years of professional experience designing, developing, and delivering reliable, high-performance software solutions.
 
-🎨 UI/UX Design
-!Figma !Adobe XD
+My primary expertise is in Mobile Application Development, complemented by hands-on experience in backend API development, web technologies, cloud services, and technical team collaboration.
 
-🗄️ Databases
-!MySQL !SQLite !Microsoft SQL Server !MongoDB !Firebase
+I have worked with international clients across Sri Lanka, Australia, and Japan, contributing to projects from initial design through development, deployment, and maintenance.
 
-☁️ Cloud & DevOps
-!AWS !Docker !GitHub Actions !Git !Bitbucket
-AWS Services: EBS, S3, RDS, Route 53, CloudFront, SES
+📱 Building cross-platform and native mobile applications.
+⚙️ Developing scalable backend services and RESTful APIs.
+🎨 Creating intuitive UI/UX experiences.
+☁️ Working with cloud infrastructure and CI/CD pipelines.
+👥 Collaborating with international teams and supporting technical leadership.
 
-🔧 Development & Collaboration Tools
-IDEs: VS Code, Android Studio, Visual Studio Community, IntelliJ IDEA, Cursor
-API Development: Postman
-Mobile Development: Xcode
-Project Management: Jira, Backlog, Redmine, Confluence, Trello
-Communication: Slack, Microsoft Teams
-Operating Systems: Windows, macOS
-💼 Professional Experience
+Languages: English (TOEIC 820) · Japanese (JLPT N3 – Business Level)
 
-5+ Years of Software Development Experience
-Throughout my career, I have contributed to software development projects for clients in:
-🇱🇰 Sri Lanka
-🇦🇺 Australia
-🇯🇵 Japan
+02 — Technical Expertise
+Mobile Development
 
-My professional experience includes:
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin" />
+</p>
 
-Designing and developing cross-platform and native mobile applications.
-Building scalable backend services and RESTful APIs.
-Creating modern and user-friendly application interfaces.
-Managing source code, development workflows, and CI/CD pipelines.
-Publishing and maintaining applications on Google Play Store and Apple App Store.
-Collaborating with international teams and contributing to project planning and delivery.
-Supporting technical decision-making and improving development efficiency.
-🌱 Currently Focused On
-Building scalable and maintainable mobile applications.
-Exploring modern Flutter development practices.
-Improving backend architecture and API performance.
-Expanding cloud and DevOps knowledge.
-Creating better software through clean code and continuous learning.
-🤝 Let's Connect!
+Backend & Web Development
 
-I'm always interested in connecting with developers, collaborating on exciting projects, and exploring new opportunities.
+<p>
+<img src="https://skillicons.dev/icons?i=spring,cs,react,html,css" />
+</p>
 
-Thanks for visiting my GitHub profile! ⭐
+Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,aws,docker" />
+</p>
+
+DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,githubactions,figma,postman,vscode,idea" />
+</p>
+
+Additional Technologies
+Category	Technologies
+UI/UX Design	Figma, Adobe XD
+Databases	MySQL, SQLite, SQL Server, MongoDB, Firebase
+AWS	EBS, S3, RDS, Route 53, CloudFront, SES
+Source Control	Git, Bitbucket
+CI/CD & DevOps	GitHub Actions, Docker
+API Development	Spring Boot, REST, Postman
+Project Management	Jira, Backlog, Redmine, Confluence, Trello
+IDEs	VS Code, Android Studio, IntelliJ IDEA, Visual Studio, Cursor
+Other Tools	Xcode, Slack, Microsoft Teams
+Operating Systems	Windows, macOS
+03 — Professional Experience
+
+5+ Years in Software Development
+
+Expertise	Experience
+Mobile Applications	Flutter, Android Java, Kotlin
+Backend Engineering	Spring Boot, RESTful APIs
+Web Development	ReactJS, HTML, CSS
+UI/UX	Figma, Adobe XD
+Cloud & Infrastructure	AWS
+Development Workflow	Git, CI/CD, Docker
+App Publishing	Google Play Store, Apple App Store
+Team Collaboration	Leadership, project coordination
+
+International Project Exposure
+
+🇱🇰 Sri Lanka   ·   🇦🇺 Australia   ·   🇯🇵 Japan
+
+04 — GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+05 — Featured Projects
+
+<p align="center">
+<i>Selected projects and technical work will be showcased here.</i>
+</p>
+
+<!-- Replace these placeholders with your actual projects.
+
+### 📱 Project Name
+Short project description.
+
+Tech: Flutter · Firebase · REST API
+
+[View Project](PROJECT_URL)
+
+-->
+
+06 — Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<i>Continuous Learning. Clean Code. Meaningful Impact.</i>
+<br/><br/>
+⭐ Thanks for visiting my profile!
+</p>
