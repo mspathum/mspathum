@@ -1,129 +1,283 @@
-👨‍💻 Software Engineer | Mobile & Backend Developer
+Pathum Senadeerage
 
-<p align="center">
-<img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-38BDF8?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/FOCUS-MOBILE%20%26%20BACKEND-8B5CF6?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/LOCATION-JAPAN-EC4899?style=for-the-badge&labelColor=111827" />
-</p>
+<div align="center">
 
-<p align="center">
-<b>Building meaningful digital experiences through technology.</b>
+<h2>Mobile Application Developer & Backend Engineer</h2>
+
+<p>Building scalable applications and reliable software solutions.</p>
+
+<a href="mailto:pathumsenadeerage@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-Read_My_Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 <br/>
-Flutter • Android • Kotlin • Spring Boot • AWS
-</p>
 
-01 — About Me
+<img src="https://img.shields.io/badge/Experience-5%2B_Years-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Japan-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Specialization-Mobile_Development-blue?style=flat-square" />
 
-I'm a Software Engineer with 5+ years of professional experience designing, developing, and delivering reliable, high-performance software solutions.
+</div>
 
-My primary expertise is in Mobile Application Development, complemented by hands-on experience in backend API development, web technologies, cloud services, and technical team collaboration.
+👨‍💻 About Me
 
-I have worked with international clients across Sri Lanka, Australia, and Japan, contributing to projects from initial design through development, deployment, and maintenance.
+<table>
+<tr>
+<td width="100%">
 
-📱 Building cross-platform and native mobile applications.
-⚙️ Developing scalable backend services and RESTful APIs.
-🎨 Creating intuitive UI/UX experiences.
-☁️ Working with cloud infrastructure and CI/CD pipelines.
-👥 Collaborating with international teams and supporting technical leadership.
+I'm a passionate Software Engineer with 5+ years of professional experience in designing, developing, and delivering reliable, high-performance software solutions.
 
-Languages: English (TOEIC 820) · Japanese (JLPT N3 – Business Level)
+My primary expertise is in Mobile Application Development, specializing in Flutter and Native Android development using Java and Kotlin.
 
-02 — Technical Expertise
-Mobile Development
+I also have hands-on experience in backend API development, web technologies, cloud infrastructure, and DevOps.
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin" />
-</p>
+Having worked with international clients across Sri Lanka, Australia, and Japan, I bring strong technical capabilities, analytical thinking, leadership, and cross-cultural communication skills.
 
-Backend & Web Development
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,cs,react,html,css" />
-</p>
+🛠️ Technical Skills
 
-Database & Cloud
+<table>
+<tr>
+<th width="25%">Category</th>
+<th width="75%">Technologies & Tools</th>
+</tr>
+<tr>
+<td><b>Programming Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=dart,java,kotlin,cs,js" />
+</td>
+</tr>
+<tr>
+<td><b>Frameworks & Libraries</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,spring,react" />
+</td>
+</tr>
+<tr>
+<td><b>Web Technologies</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</td>
+</tr>
+<tr>
+<td><b>UI/UX Design</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=figma,xd" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" />
+<br/>Microsoft SQL Server
+</td>
+</tr>
+<tr>
+<td><b>Cloud Computing</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws" />
+<br/>AWS EBS, S3, RDS, Route 53, CloudFront, SES
+</td>
+</tr>
+<tr>
+<td><b>DevOps & CI/CD</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</td>
+</tr>
+<tr>
+<td><b>Source Control</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+</td>
+</tr>
+<tr>
+<td><b>Development Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,visualstudio,postman,xcode" />
+<br/>Cursor
+</td>
+</tr>
+<tr>
+<td><b>Project Management</b></td>
+<td>Jira, Backlog, Redmine, Confluence, Trello</td>
+</tr>
+<tr>
+<td><b>Communication</b></td>
+<td>Slack, Microsoft Teams</td>
+</tr>
+<tr>
+<td><b>Operating Systems</b></td>
+<td>Windows, macOS</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,aws,docker" />
-</p>
+💼 Professional Expertise
 
-DevOps & Development Tools
+<table>
+<tr>
+<th width="30%">Area</th>
+<th width="70%">Experience & Capabilities</th>
+</tr>
+<tr>
+<td>📱 <b>Mobile Development</b></td>
+<td>
+<ul>
+<li>Cross-platform application development using Flutter.</li>
+<li>Native Android development using Java and Kotlin.</li>
+<li>Modern UI/UX implementation and application optimization.</li>
+<li>Google Play Store and Apple App Store publishing.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>⚙️ <b>Backend Development</b></td>
+<td>
+<ul>
+<li>RESTful API development using Spring Boot.</li>
+<li>Backend service development and database integration.</li>
+<li>API testing and integration using Postman.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>🎨 <b>UI/UX Design</b></td>
+<td>
+<ul>
+<li>Mobile application interface design.</li>
+<li>Wireframing and prototyping using Figma and Adobe XD.</li>
+<li>Focus on usability and modern design practices.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>☁️ <b>DevOps & Cloud</b></td>
+<td>
+<ul>
+<li>Source code management using Git.</li>
+<li>CI/CD automation using GitHub Actions.</li>
+<li>Docker and AWS cloud services.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>🤝 <b>Leadership & Management</b></td>
+<td>
+<ul>
+<li>Team collaboration and project coordination.</li>
+<li>Project planning and management.</li>
+<li>International client communication.</li>
+<li>Analytical thinking and problem-solving.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,githubactions,figma,postman,vscode,idea" />
-</p>
+🎓 Education
 
-Additional Technologies
-Category	Technologies
-UI/UX Design	Figma, Adobe XD
-Databases	MySQL, SQLite, SQL Server, MongoDB, Firebase
-AWS	EBS, S3, RDS, Route 53, CloudFront, SES
-Source Control	Git, Bitbucket
-CI/CD & DevOps	GitHub Actions, Docker
-API Development	Spring Boot, REST, Postman
-Project Management	Jira, Backlog, Redmine, Confluence, Trello
-IDEs	VS Code, Android Studio, IntelliJ IDEA, Visual Studio, Cursor
-Other Tools	Xcode, Slack, Microsoft Teams
-Operating Systems	Windows, macOS
-03 — Professional Experience
+<table>
+<tr>
+<th width="35%">Institution</th>
+<th width="40%">Qualification</th>
+<th width="25%">Duration / Result</th>
+</tr>
+<tr>
+<td>
+<b>Tokyo International University</b><br/>
+Japan 🇯🇵
+</td>
+<td>
+M.Sc. in Digital Business & Innovation
+</td>
+<td>
+April 2021 – March 2023<br/>
+<b>GPA: 3.86</b>
+</td>
+</tr>
+<tr>
+<td>
+<b>Sri Lanka Institute of Information Technology (SLIIT)</b><br/>
+Sri Lanka 🇱🇰
+</td>
+<td>
+B.Sc. (Hons) – Specialization in Information Technology
+</td>
+<td>
+October 2015 – February 2020
+</td>
+</tr>
+</table>
 
-5+ Years in Software Development
+🌐 Languages
 
-Expertise	Experience
-Mobile Applications	Flutter, Android Java, Kotlin
-Backend Engineering	Spring Boot, RESTful APIs
-Web Development	ReactJS, HTML, CSS
-UI/UX	Figma, Adobe XD
-Cloud & Infrastructure	AWS
-Development Workflow	Git, CI/CD, Docker
-App Publishing	Google Play Store, Apple App Store
-Team Collaboration	Leadership, project coordination
+<table>
+<tr>
+<th width="35%">Language</th>
+<th width="65%">Proficiency</th>
+</tr>
+<tr>
+<td>🇬🇧 <b>English</b></td>
+<td>Professional Proficiency | TOEIC 820</td>
+</tr>
+<tr>
+<td>🇯🇵 <b>Japanese</b></td>
+<td>JLPT N3 | Business Level</td>
+</tr>
+</table>
 
-International Project Exposure
+🌏 International Experience
 
-🇱🇰 Sri Lanka   ·   🇦🇺 Australia   ·   🇯🇵 Japan
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🇱🇰 Sri Lanka</h3>
+Software Development
+</td>
+<td align="center" width="33%">
+<h3>🇦🇺 Australia</h3>
+International Clients
+</td>
+<td align="center" width="33%">
+<h3>🇯🇵 Japan</h3>
+Professional & Academic Experience
+</td>
+</tr>
+</table>
 
-04 — GitHub Analytics
+🤝 Let's Connect
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</p>
+<div align="center">
 
-<p align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+I'm always interested in connecting with developers, technology enthusiasts, and professionals worldwide.
 
-05 — Featured Projects
+<br/>
 
-<p align="center">
-<i>Selected projects and technical work will be showcased here.</i>
-</p>
-
-<!-- Replace these placeholders with your actual projects.
-
-### 📱 Project Name
-Short project description.
-
-Tech: Flutter · Firebase · REST API
-
-[View Project](PROJECT_URL)
-
--->
-
-06 — Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:pathumsenadeerage@gmail.com">
+<img src="https://img.shields.io/badge/Email-pathumsenadeerage%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
 
-<p align="center">
-<i>Continuous Learning. Clean Code. Meaningful Impact.</i>
 <br/><br/>
-⭐ Thanks for visiting my profile!
-</p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-Read_my_articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<br/><br/>
+
+Thanks for visiting my profile! ⭐
+
+<i>"Building meaningful digital experiences through technology, creativity, and continuous learning."</i>
+
+</div>
