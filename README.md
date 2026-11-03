@@ -1,61 +1,78 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Welcome </h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Me+<Pathum/>;Software+Engineer...;Mobile+Application+Dev+Expert...;SpringBoot+ReactJS+Enthusiast...;"/>
 
+👋 Hi, I'm a Software Engineer
+Mobile Application Developer | Flutter & Android | Backend API Developer
 
+I’m a passionate Software Engineer with 5+ years of experience designing, developing, and delivering reliable, scalable, and high-performance software solutions.
 
-<img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif">
+My expertise spans Mobile Application Development, Backend API Development, and Web Development, with hands-on experience working with international clients across Sri Lanka, Australia, and Japan.
 
-Software engineer 👨‍💻 who is passionate about Mobile application development & Backend API development 🏄‍♂️. 
+I enjoy transforming ideas into practical digital solutions, building user-friendly applications, improving development workflows, and collaborating with teams to achieve business goals.
 
-- 🔭 Currently working on [Mobile App development with Flutter & Android (Java) | Backend APIs with Spring Boot]
-- 🌱 I’m currently learning [ReactJS+TypeScript]
+🚀 About Me
+📱 Specialized in Mobile Application Development using Flutter, Android Java, and Kotlin.
+⚙️ Experienced in Backend API Development using Spring Boot and RESTful architecture.
+🎨 Skilled in UI/UX design and prototyping using Figma and Adobe XD.
+☁️ Familiar with AWS cloud services and Docker-based environments.
+🔄 Experienced in Git workflows, CI/CD pipelines, and application deployment.
+📦 Hands-on experience publishing applications to Google Play Store and Apple App Store.
+👨‍💻 Experienced in team collaboration, technical leadership, and project management.
+🌏 Worked with international clients across Sri Lanka, Australia, and Japan.
+🇬🇧 English: TOEIC 820 | 🇯🇵 Japanese: JLPT N3 – Business Level.
+🛠️ Tech Stack & Tools
+💻 Languages & Frameworks
 
-<h3 align="left">Read My Articles</h3>
-<p align="left">
-<a href="https://medium.com/@mspathum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mspathum" height="30" width="30" /></a>
-</p>
+!Dart !Flutter !Java !Kotlin !Spring Boot !C# !React !HTML5 !CSS3
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+🎨 UI/UX Design
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills 
+!Figma !Adobe XD
 
-- **Languages/Frameworks**
-    
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg?short_path=e99ef1e" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40" />
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Swift.svg" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" width="40" height="40" />
-  
-- **UI-Design**
+🗄️ Databases
 
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/XD.svg" width="40" height="40" />
+!MySQL !SQLite !Microsoft SQL Server !MongoDB !Firebase
 
-- **Source-Control-systems**
+☁️ Cloud & DevOps
 
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="40" height="40" />
+!AWS !Docker !GitHub Actions !Git !Bitbucket
 
-- **Workflow-Automation**
+AWS Services: EBS, S3, RDS, Route 53, CloudFront, SES
 
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Dark.svg" width="40" height="40" alt="HTML" />
+🔧 Development & Collaboration Tools
+IDEs: VS Code, Android Studio, Visual Studio Community, IntelliJ IDEA, Cursor
+API Development: Postman
+Mobile Development: Xcode
+Project Management: Jira, Backlog, Redmine, Confluence, Trello
+Communication: Slack, Microsoft Teams
+Operating Systems: Windows, macOS
+💼 Professional Experience
 
-- **Databases-&-Cloud-Services**
+5+ Years of Software Development Experience
 
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40" alt="HTML" />
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" width="40" height="40" alt="HTML" />
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" width="40" height="40" alt="HTML" />
+Throughout my career, I have contributed to software development projects for clients in:
 
-- **Other-Tools**
+🇱🇰 Sri Lanka
+🇦🇺 Australia
+🇯🇵 Japan
 
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="40" height="40" alt="HTML" />
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" alt="HTML" />
+My professional experience includes:
 
-- **Code-Editors**
+Designing and developing cross-platform and native mobile applications.
+Building scalable backend services and RESTful APIs.
+Creating modern and user-friendly application interfaces.
+Managing source code, development workflows, and CI/CD pipelines.
+Publishing and maintaining applications on Google Play Store and Apple App Store.
+Collaborating with international teams and contributing to project planning and delivery.
+Supporting technical decision-making and improving development efficiency.
+🌱 Currently Focused On
+Building scalable and maintainable mobile applications.
+Exploring modern Flutter development practices.
+Improving backend architecture and API performance.
+Expanding cloud and DevOps knowledge.
+Creating better software through clean code and continuous learning.
+🤝 Let's Connect!
 
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="40" height="40" alt="HTML" />
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40" />
-   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="40" height="40" alt="HTML" />
+I'm always interested in connecting with developers, collaborating on exciting projects, and exploring new opportunities.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+Thanks for visiting my GitHub profile! ⭐
